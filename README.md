@@ -1,1 +1,2 @@
 # hundirLaFlota
+Este proyecto esta hecho con Java desde NetBeans IDE 23, se ejecuta desde la consola del NetBeans y todo su lenguaje es Java. El proyecto es un juego de hundir la flota donde el usuario tendrá que colocar los diferentes barcos que ofrece el programa en su tablero y se enfrentará a una IA programada la cual colocará sus barcos de manera aleatoria. El juego será por turnos y el primero que hunda todos los barcos gana.
